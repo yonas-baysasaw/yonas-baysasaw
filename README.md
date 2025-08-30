@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a passionate **Software Engineering student*
 
 ## 💻 About Me
 - 🏫 Currently studying Software Engineering at Addis Ababa Institute of Technology  
-- 🌱 Learning **Backend Development with Python/Django**, **React**, and **TypeScript**  
+- 🌱 Learning **full-stack Development with Python/Django**, **React**, and **TypeScript**  
 - 🔧 Experienced with **HTML, CSS, JavaScript, React, Python, MySQL, MongoDB**  
 - 🏆 Participated in programming contests with **A2SV**  
 - 💡 Interested in **building tech-driven solutions** for real-world problems  
@@ -28,27 +28,22 @@ Welcome to my GitHub portfolio! I'm a passionate **Software Engineering student*
 - A responsive pizza menu web app built with **React** and **CSS**  
 - Features: Dynamic menu display, responsive UI, interactive buttons  
 
-### 2. **Airbnb Clone** (Public)
-- A clone of Airbnb platform built with **React** and **CSS**  
-- Features: Listings, filters, booking UI, responsive design  
-- [Repo Link](https://github.com/yonas-baysasaw/airbnb-clone-project)
-
-### 3. **Job Listing App** (Private)
+### 2. **Job Listing App** (Private)
 - Built with **TypeScript** and **React**  
 - Features: Add, Edit, Delete job listings with dynamic filters  
 
-### 4. **Todo List Apps** (Public & Private)
+### 3. **Todo List Apps** (Public & Private)
 - Two versions of **Todo List apps** built with **JavaScript** and **TypeScript**  
 - Features: Add, Edit, Delete, Mark complete, Local storage support  
 
-### 5. **Turtle Art** (Public)
+### 4. **Turtle Art** (Public)
 - Python-based project to create art using **Turtle graphics**  
 
-### 6. **Emotion Detection of Text** (Public)
+### 5. **Emotion Detection of Text** (Public)
 - **Jupyter Notebook project** for detecting emotions in text data using Python  
 - Features: Text preprocessing, model training, prediction  
 
-*(You can add more projects similarly)*
+
 
 ---
 
@@ -66,8 +61,8 @@ Welcome to my GitHub portfolio! I'm a passionate **Software Engineering student*
 ---
 
 ## 🤝 Let’s Connect
-- LinkedIn: [linkedin.com/in/yonas-baysasaw](#)  
-- Email: yonas@example.com  
+- LinkedIn: https://www.linkedin.com/in/yonas-baysasaw/ 
+- Email: yonas.baysasaw.kibret@gmail.com 
 
 ---
 
